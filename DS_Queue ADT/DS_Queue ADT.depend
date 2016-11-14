@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475828334 source:c:\users\leechanghwa\onedrive\ds source\ds_queue adt\adt_queue.c
+	<stdio.h>
+	<stdlib.h>
+	"ADT_queue.h"
+
+1475828340 c:\users\leechanghwa\onedrive\ds source\ds_queue adt\adt_queue.h
+
+1475827721 source:c:\users\leechanghwa\onedrive\ds source\ds_queue adt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ADT_queue.h"
+

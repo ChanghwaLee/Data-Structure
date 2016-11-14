@@ -1,0 +1,64 @@
+list is empty: index 1 is not allowd
+data insertion ok on empty list: 100
+data insertion ok on rear node: 200
+10 data insertion:
+ - add ok at 0: 0
+ - add ok at 1: 1
+ - add ok at 2: 2
+ - add ok at 3: 3
+ - add ok at 4: 4
+ - add ok at 5: 5
+ - add ok at 6: 6
+ - add ok at 7: 7
+ - add ok at 8: 8
+ - add ok at 9: 9
+copyed list2: 0 1 2 3 4 5 6 7 8 9 100 200 
+data insertion ok on rear node: 300
+data insertion ok on front: 400
+Print All Iterative:
+ - int data 400
+ - int data 0
+ - int data 1
+ - int data 2
+ - int data 3
+ - int data 4
+ - int data 5
+ - int data 6
+ - int data 7
+ - int data 8
+ - int data 9
+ - int data 100
+ - int data 200
+ - int data 300
+data deletion success on index 0
+Print All Iterative:
+ - int data 0
+ - int data 1
+ - int data 2
+ - int data 3
+ - int data 4
+ - int data 5
+ - int data 6
+ - int data 7
+ - int data 8
+ - int data 9
+ - int data 100
+ - int data 200
+ - int data 300
+data deletion success on rear
+data deletion success on index 4
+current list size: 11
+Print All Iterative:
+ - int data 0
+ - int data 1
+ - int data 2
+ - int data 3
+ - int data 5
+ - int data 6
+ - int data 7
+ - int data 8
+ - int data 9
+ - int data 100
+ - int data 200
+found 200 at index 10
+found 5 at index 4

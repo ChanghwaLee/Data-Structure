@@ -1,0 +1,36 @@
+BST_TREE:
+ size : 5
+ data : 5,7,10,14,22,
+
+BST_TREE:
+ size : 10
+ data : 3,5,7,8,9,10,14,17,22,30,
+BST_TREE:
+ size : 10
+ data : 3,9,8,7,5,17,30,22,14,10,
+BST_TREE:
+ size : 10
+ data : 10,5,3,7,8,9,14,22,17,30,
+
+searched node: 17
+
+smallest node: 3
+
+largest node: 30
+
+after deleting 17
+BST_TREE:
+ size : 9
+ data : 3,5,7,8,9,10,14,22,30,
+after deleting 5
+BST_TREE:
+ size : 8
+ data : 3,7,8,9,10,14,22,30,
+after deleting 3
+BST_TREE:
+ size : 7
+ data : 7,8,9,10,14,22,30,
+after deleting 22
+BST_TREE:
+ size : 6
+ data : 7,8,9,10,14,30,

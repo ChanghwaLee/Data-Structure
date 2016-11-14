@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\khg48_000\onedrive\ds source\ds_stack adt\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1475159681 source:c:\users\changhwa\onedrive\ds source\ds_stack adt\adt_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"ADT_stack.h"
+
+1475159436 c:\users\changhwa\onedrive\ds source\ds_stack adt\adt_stack.h
+	<stdio.h>
+
+1475159193 source:c:\users\changhwa\onedrive\ds source\ds_stack adt\main.c
+	<stdio.h>
+	"ADT_stack.h"
+
